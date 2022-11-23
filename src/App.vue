@@ -1,6 +1,6 @@
 <script>
 import PageTitle from "./components/AppTitle.vue";
-import HeroImg from "./components/HeroImg.vue";
+import HeroImg from "./components/AppHero.vue";
 
 export default {
   components: {
