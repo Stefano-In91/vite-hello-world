@@ -1,9 +1,11 @@
 <script>
 import PageTitle from "./components/AppTitle.vue";
+import HeroImg from "./components/HeroImg.vue";
 
 export default {
   components: {
     PageTitle,
+    HeroImg,
   },
 };
 </script>
@@ -11,6 +13,7 @@ export default {
 <template>
   <div>
     <PageTitle />
+    <HeroImg />
   </div>
 </template>
 

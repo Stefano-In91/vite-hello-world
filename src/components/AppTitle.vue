@@ -2,7 +2,7 @@
 export default {
   data() {
     return {
-      title: "La mia prima app con Vite!",
+      title: "Rest In Power",
     };
   },
 };
