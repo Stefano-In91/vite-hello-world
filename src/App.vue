@@ -1,5 +1,5 @@
 <script>
-import PageTitle from "./components/PageTitle.vue";
+import PageTitle from "./components/AppTitle.vue";
 
 export default {
   components: {
