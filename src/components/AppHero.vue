@@ -14,7 +14,7 @@ export default {
 
 <template>
   <div class="hero-container">
-    <img :src="kobe.img" alt="kobe.title" />
+    <img :src="kobe.img" :alt="kobe.title" />
     <div class="hero-text">
       <h2>{{ kobe.title }}</h2>
       <p>{{ kobe.text }}</p>
