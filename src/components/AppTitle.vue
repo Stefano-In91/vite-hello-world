@@ -1,10 +1,7 @@
 <script>
 export default {
-  data() {
-    return {
-      title: "Rest In Power",
-    };
-  },
+  name: "PageTitle",
+  props: ["title"],
 };
 </script>
 

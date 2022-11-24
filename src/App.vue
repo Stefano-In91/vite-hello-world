@@ -12,7 +12,7 @@ export default {
 
 <template>
   <div>
-    <PageTitle />
+    <PageTitle title="Rest In Power" />
     <HeroImg />
   </div>
 </template>
